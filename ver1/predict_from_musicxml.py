@@ -8,7 +8,6 @@ import pickle
 import librosa
 
 import numpy as np
-from scipy.io import wavfile
 
 import torch
 import torch.nn as nn

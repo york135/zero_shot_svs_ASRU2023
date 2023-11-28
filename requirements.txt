@@ -1,0 +1,14 @@
+torch
+librosa
+numpy
+tqdm
+music21
+soundfile
+dragonmapper
+textgrid
+torchcrepe
+h5py
+pyyaml
+kaldiio
+torchaudio
+tensorboard
